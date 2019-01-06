@@ -1,5 +1,5 @@
 # AHP-from-the-scratch
-Analytic hierarchy process source code in java
+Analytic hierarchy process source code in java OOP
 
 output
 
